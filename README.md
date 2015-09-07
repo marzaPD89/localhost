@@ -1,0 +1,2 @@
+# localhost
+Esempio Prestashop base
